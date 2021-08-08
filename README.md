@@ -20,3 +20,4 @@ Using workshop INT214 Statistics for Information Technology
 
 #### References
 - https://www.statmethods.net/index.html
+- https://github.com/andrewgbruce/statistics-for-data-scientists
