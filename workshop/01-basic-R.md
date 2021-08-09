@@ -8,9 +8,18 @@
 #Get Working Directory
 getwd()
 #Set Working Directory
-setwd()
+setwd("path")
 ````
-Alternative: setting by use menu Session > set working directory
+** Hints: use Terminal and using command `pwd` to print working directory
+
+Try to create new file `test.txt` in working directory and list the files in R console
+````
+#List the Files in a Directory/Folder
+dir()
+````
+Alternative Way: setting by use menu Session > set working directory
+
+Default Setting: use menu Tools > global options
 
 ## Basic Tools
 ```
@@ -21,6 +30,11 @@ Alternative: setting by use menu Session > set working directory
 # Print function
 print("Hello")
 ```
+
+## Run Script
+- `Command+Enter` Run the current line or selection
+- `Command+option+R` Run all
+- `Ctrl+L` Clear console
 
 ## Basic Operation
 ```
@@ -36,14 +50,28 @@ z
 ## Data Types
 There are 3 types: numeric, logical, character
 ```
-# class() to check data types
-x1 = 100
-class(x1)
+# Numeric
+varA <- 100
+class(varA)
+# Logical: TRUE, FALSE
+varB <- TRUE
+class(varB)
+class(1==2)
 
-x2 = "hello world"
-class(x2)
+varC <- "Hello, My name is Safe"
+class(varC)
+```
 
-x3 = FALSE # TRUE
-class(x3)
+## Notes
+```
+# Directory
+getwd()
+setwd()
 
+# Help Function
+?
+help()
+
+# check data types
+class()
 ```

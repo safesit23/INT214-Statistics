@@ -5,6 +5,7 @@
 
 ## Learning Reference
 - https://www.statmethods.net/input/datatypes.html
+- https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 
 
 #### Created by Jatawat Xie (P'Safe)
