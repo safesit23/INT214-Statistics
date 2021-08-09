@@ -21,7 +21,7 @@ Using workshop INT214 Statistics for Information Technology
 | Week 6  | (Coming Soon...)                              |                          |
 | Week 7  | (Coming Soon...)                              |                          |
 
-Get Slide [Coming soon...]()
+Get Slide [Here](https://drive.google.com/drive/folders/1oDfOGEOEwl80PqWm_LPqFcrNtE38BrOJ?usp=sharing)
 
 #### Created by Jatawat Xie (P'Safe)
 
