@@ -12,7 +12,7 @@ setwd("path")
 ````
 ** Hints: use Terminal and using command `pwd` to print working directory
 
-Try to create new file `test.txt` in working directory and list the files in R console
+Try to create new file `touch test.txt` in working directory and list the files in R console
 ````
 #List the Files in a Directory/Folder
 dir()
