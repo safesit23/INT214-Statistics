@@ -28,8 +28,8 @@ setwd("path")
 #List the Files in a Directory/Folder
 dir()
 ````
-### Step 2: How can we get folder path
-#### macOS:
+### 1.1. How can we get folder path (Step 2)
+#### for macOS:
 open terminal app and then go to your folder with `cd` then using command `pwd` to print working directory
 ```
 #Terminal App (Sample)
@@ -53,27 +53,28 @@ ls                               #List file
 cd  folderName/folderName        #Change directory
 pwd                              #Print Working Directory
 ```
-#### windows:
+#### for windows:
 1. Open File Explorer and go to your folder
 2. Right click at navigate and copy your address [(or use another ways)](https://www.top-password.com/blog/tag/how-to-find-file-path-windows-10/)
 3. Put in command `setwd()` and change `\` to `/`     ***If not change it will Error
 ```
-#When you get path from address
+# When you get path from address: 
 # C:\Users\safe\Desktop\R-INT214
 
+# When using in R
 setwd("C:/Users/safe/Desktop/R-INT214")
 ```
 
-### Step 3: How can we create file
-1. Create file `test.txt` in your folder
-#### macos:
+### 1.2. Create file and list file (Step 3)
+Create file `test.txt` in your folder then go to console in R Studio and using `dir()` to list all files in working directory
+#### for macos:
 Open Terminal app (make sure that you are right working directory by using `pwd` to check) try to create new file by using command `touch test.txt` to create blank file
-#### windows:
+#### for windows:
 Right click on your folder select `New > Text Document` then save it to folder.
 
-2. Go to console in R Studio use `dir()` to list all files in working directory
 
-### Easy way:
+
+## Easy way to set Directory:
 Setting default working directory by use menu `Session > Set working directory > Choose...`
 
 ## 2. Basic Tools
