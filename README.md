@@ -15,4 +15,9 @@ Using workshop INT214 Statistics for Information Technology
 | Week 6  | (Coming Soon...)                              |                              |
 | Week 7  | (Coming Soon...)                              |                              |
 
+
 #### Created by Jatawat Xie (P'Safe)
+
+#### References
+- https://www.statmethods.net/index.html
+- https://github.com/andrewgbruce/statistics-for-data-scientists
