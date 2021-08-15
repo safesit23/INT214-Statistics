@@ -1,4 +1,4 @@
-# 01 Basic R
+# 01 Introduction to R
 ## 0. Installation and Setting Up
 - Install R from https://cran.rstudio.com/
 - Download RStudio Desktop from https://rstudio.com/products/rstudio/download/#download
@@ -77,8 +77,10 @@ Right click on your folder select `New > Text Document` then save it to folder.
 ## Easy way to set Directory:
 Setting default working directory by use menu `Session > Set working directory > Choose...`
 
+
 ## 2. Basic Tools
-```
+Try to run this in console...
+```{r}
 #comment
 1+1
 # formula
@@ -88,11 +90,17 @@ print("Hello")
 ```
 
 ## 3. Run Script
+3.1. Create Script file and save `1-MyScript.R`
+
+3.2. copy code in Topic 2 and paste in script file.
+
+3.3. Run Script
 - `Command+Enter` Run the current line or selection
 - `Command+option+R` Run all
 - `Ctrl+L` Clear console
 
 ## 4. Basic Operation
+We can create variable by using `<-` it mean assign value (right) to variable (left)
 ```
 # create variable
 x <- 1
@@ -101,21 +109,6 @@ x+y
 print(x + y)
 z <- x+y
 z
-```
-
-## 5. Data Types
-There are 3 types: numeric, logical, character
-```
-# Numeric
-varA <- 100
-class(varA)
-# Logical: TRUE, FALSE
-varB <- TRUE
-class(varB)
-class(1==2)
-
-varC <- "Hello, My name is Safe"
-class(varC)
 ```
 
 ## Notes
@@ -127,7 +120,4 @@ setwd()
 # Help Function
 ?
 help()
-
-# check data types
-class()
 ```
