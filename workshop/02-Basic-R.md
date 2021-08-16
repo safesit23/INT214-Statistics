@@ -73,7 +73,7 @@ c(100,245,305,411,555)
 - Use `length()` to get the length of vectors
 - Moreover you can get elements at position x by using `variable[x]` which position is starting with 1
 
-### 3.1.3. Operation with Vector
+### 3.1.2. Operation with Vector
 
 ```
 # Create Variable name
