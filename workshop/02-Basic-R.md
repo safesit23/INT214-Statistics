@@ -125,7 +125,7 @@ countries <- c(54,48,51,23,14,12,0)
 world <- data.frame(continent,countries)
 ```
 
-## 4. Statistics
+## 6. Statistics
 
 ```
 x <- c(1:10)
