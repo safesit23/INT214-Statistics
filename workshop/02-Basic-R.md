@@ -154,7 +154,7 @@ Study More... https://www.statmethods.net/input/datatypes.html
 
 ## Assignment
 
-Create and script file `HW01_63130500xxx.R` and push your solution in this file and answer by using comment. Example
+Create script file `HW01_63130500xxx.R` and do exercise in this file and answer by using comment. Example
 
 ```
 # Example 0
@@ -162,4 +162,4 @@ x <- 1
 y <- 2
 print(x+y) #3
 ```
-
+After finished send in LEB2
