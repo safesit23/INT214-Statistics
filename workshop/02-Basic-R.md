@@ -80,7 +80,7 @@ c(100,245,305,411,555)
 v1 <- c(1,2,3,4,5)
 v2 <- c(6,7,8,9,10)
 
-# Random
+# Replicate
 v3 <- rep(c(1,2,3),5)
 
 # Creating integer sequences
@@ -170,7 +170,7 @@ Finding the average, sum, median, sd, variance of `10.4, 5.6, 3.1, 6.4, 21.7`
 
 ### Exercise 2
 
-2.1. Create data structure in varaible named `marvel_movies` and explain why you using this data structure ?
+2.1. Create data structure in variable named `marvel_movies` and explain why you using this data structure ?
 
 ```
 # List of Marvel movies (Order by Marvel Phase released)
