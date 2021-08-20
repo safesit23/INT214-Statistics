@@ -123,6 +123,7 @@ Data Frames are created using the `data.frame()` function.
 continent <- c("Africa","Asia","Europe","North America","Oceania","South America","Antarctica")
 countries <- c(54,48,51,23,14,12,0)
 world <- data.frame(continent,countries)
+View(world)
 ```
 
 ## 6. Statistics
@@ -194,4 +195,4 @@ rep(2017,4),rep(2018,2),rep(2019,3),rep(2021,4))
 
 - The numbers of movies
 - Finding the 19th movies name
-- Which year is most released movies
+- Which year is most released movies (In this exercise not necessary to using command)
