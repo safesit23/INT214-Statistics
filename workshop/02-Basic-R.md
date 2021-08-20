@@ -99,7 +99,7 @@ An ordered collection of objects (components). A list allows you to gather a var
 
 ```
 # Initial
-name <- c("Antony,Boky,Caty")
+name <- c("Antony","Boky","Caty")
 age <-c(10,25,30)
 club <-c("Sec A","Sec B","Sec A")
 retired <- c(T,F,T)
