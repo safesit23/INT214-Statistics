@@ -9,23 +9,23 @@ Using workshop INT214 Statistics for Information Technology
 
 ## Course Outlines
 
-| Week    | Topics                                        | Instruction Files                    |
-| ------- | --------------------------------------------- | ------------------------------------ |
-| Week 1  | Introduction + Setting up R Studio Desktop    | [01-Intro-R](workshop/01-intro-R.md) |
-| Week 2  | Basic R + Statistics                          | [02-Basic-R](workshop/02-Basic-R.md) |
-| Week 3  | Explore Data Part 1                           |                                      |
-| Week 4  | Explore Data Part 2                           |                                      |
-| Week 5  | Data Cleaing                                  |                                      |
-| Week 6  | Fundamental of Data Visualization with ggplot |                                      |
-| Week 7  | Workshop I                                    |                                      |
-| Week 9  | Data Visualization with BI Tools Part 1       |                                      |
-| Week 10 | Data Visualization with BI Tools Part 2       |                                      |
-| Week 11 | Hypothesis Testing for A/B Testing            |                                      |
-| Week 12 | Workshop II                                   |                                      |
-| Week 13 | Regression                                    |                                      |
-| Week 14 | Extra: Time Series Analysis                   |                                      |
+| Week    | Topics                                        | Instruction Files                          |
+| ------- | --------------------------------------------- | ------------------------------------------ |
+| Week 1  | Introduction + Setting up R Studio Desktop    | [01-Intro-R](workshop/01-intro-R.md)       |
+| Week 2  | Basic R + Statistics                          | [02-Basic-R](workshop/02-Basic-R.md)       |
+| Week 3  | Explore Data Part 1: Statistic and Datasets   | [03-Explore-01](workshop/03-Explore-01.md) |
+| Week 4  | Explore Data Part 2: Transforming Data        | [04-Explore-02](workshop/04-Explore-02.md) |
+| Week 5  | Data Cleaing                                  |                                            |
+| Week 6  | Fundamental of Data Visualization with ggplot |                                            |
+| Week 7  | Workshop I                                    |                                            |
+| Week 9  | Data Visualization with BI Tools Part 1       |                                            |
+| Week 10 | Data Visualization with BI Tools Part 2       |                                            |
+| Week 11 | Hypothesis Testing for A/B Testing            |                                            |
+| Week 12 | Workshop II                                   |                                            |
+| Week 13 | Regression                                    |                                            |
+| Week 14 | Extra: Time Series Analysis                   |                                            |
 
-Get Slide [Here](https://drive.google.com/drive/folders/1Bi58GdQ19Te8JdCM7slyJdocpu8JudEc?usp=sharing)
+Get Slide [Here](https://drive.google.com/drive/folders/1Bi58GdQ19Te8JdCM7slyJdocpu8JudEc)
 
 #### Created by Jatawat Xie (P'Safe)
 
