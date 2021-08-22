@@ -13,8 +13,8 @@ Using workshop INT214 Statistics for Information Technology
 | ------- | --------------------------------------------- | ------------------------------------------ |
 | Week 1  | Introduction + Setting up R Studio Desktop    | [01-Intro-R](workshop/01-intro-R.md)       |
 | Week 2  | Basic R + Statistics                          | [02-Basic-R](workshop/02-Basic-R.md)       |
-| Week 3  | Explore Data Part 1: Statistic and Datasets   | [03-Explore-01](workshop/03-Explore-01.md) |
-| Week 4  | Explore Data Part 2: Transforming Data        | [04-Explore-02](workshop/04-Explore-02.md) |
+| Week 3  | Explore Data Part I                           | [03-Explore-01](workshop/03-Explore-01.md) |
+| Week 4  | Explore Data Part II                          | [04-Explore-02](workshop/04-Explore-02.md) |
 | Week 5  | Data Cleaing                                  |                                            |
 | Week 6  | Fundamental of Data Visualization with ggplot |                                            |
 | Week 7  | Workshop I                                    |                                            |
