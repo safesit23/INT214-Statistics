@@ -12,7 +12,7 @@
 ## 0. Prerequisites
 
 1. Open R Studio Desktop and setting working directory
-2. Open Slide [03 Explore Data Part I](https://drive.google.com/drive/folders/1Bi58GdQ19Te8JdCM7slyJdocpu8JudEc)
+2. Open Slide [03 Explore Data Part I](https://drive.google.com/file/d/1L9sQGIH_aOA2IHkiXE1XrLKvlr_ge8Il/view)
 3. Create Script file name `03_63130500xxx.R` and save in your working directory
 4. Open progress form [Class 03](https://forms.gle/n34yEsZKmrqv5ydK9) and checked on Study Check-In and 0 prerequisite
 
@@ -237,11 +237,14 @@ You need to handle `NA` values by add parameter `na.rm` in function. For example
 nums <- c(1,2,3,4,NA)
 mean(nums,na.rm = TRUE)
 ```
+
 ### C. Pipes Operator in R
+
 - `f(x)` can be rewritten as `x %>% f`
 - In short, this means that functions that take one argument, function(argument), can be rewritten as follows: `argument %>% function()`. Ref: [Data Camp](https://www.datacamp.com/community/tutorials/pipe-r-tutorial#howto)
 
 Try to use `%>%` operator and see the result. Is it same ?
+
 ```
 # In class
 mean(mtcars$mpg)
