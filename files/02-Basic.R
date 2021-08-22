@@ -36,9 +36,15 @@ v3 <- rep(c(1,2,3),5)
 
 # Creating integer sequences
 v4 <- c(1:100)
+# WHAT IF ?
+v1+v4
+
+v5 <- c(1,2,3)
+v6 <- c(1,2,0)
+v5+v6
 
 # Initial
-name <- c("Antony,Boky,Caty")
+name <- c("Antony","Boky","Caty")
 age <-c(10,25,30)
 club <-c("Sec A","Sec B","Sec A")
 retired <- c(T,F,T)
@@ -56,6 +62,7 @@ myList <- list(stdName = name,
 myList[2] #get variable stdAge
 
 View(myList)
+myList <- data.frame(name,age,club,retired)
 
 continent <- c("Africa","Asia","Europe","North America","Oceania","South America","Antarctica")
 countries <- c(54,48,51,23,14,12,0)
