@@ -222,11 +222,12 @@ library(MASS)
 - Cats (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/cats)
 - Survey (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/survey)
 
-#### 3. Finding descriptive statistics and writing at least 5 statements from 2 datasets. For example,
+#### 3. Finding descriptive statistics and summary result in form of sentences/paragraph. For example,
 
 - From survey, most students use left hand writing.
 - The average of body weight of cats is xxx kg.
 
+After you have done, you need to sharing and working with your group as Assignment 2.
 ### B. What is NA Values ?
 
 In the survey dataset, it has `NA` values. `NA` mean ‘Not Available’ / Missing Values.

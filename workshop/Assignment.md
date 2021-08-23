@@ -1,7 +1,10 @@
 # All Assignment
-- [Assignment 1](##-Assignment-1) (Week 2: 16 Aug, 20 Aug)
-## Assignment 1
 
+- [Assignment 1](##-Assignment-1) (Week 2: 16 Aug, 20 Aug)
+- [Assignment 2](##-Assignment-2) (Week 3: 23 Aug, 27 Aug)
+
+## Assignment 1 (Individual)
+Create script file `HW01_63130500xxx.R` and do exercise in this file and answer by using comment.
 ### Exercise 1
 
 Finding the average, sum, median, sd, variance of `10.4, 5.6, 3.1, 6.4, 21.7`
@@ -34,5 +37,12 @@ rep(2017,4),rep(2018,2),rep(2019,3),rep(2021,4))
 - Finding the 19th movies name
 - Which year is most released movies
 
-## Assignment 2
-(Coming soon...)
+## Assignment 2 (Group)
+Explore 2 dataset that given then finding descriptive statistics and summary result in form of sentences/paragraph at least 5 topics.
+#### Datasets:
+- Cats (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/cats)
+- Survey (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/survey)
+
+#### For example:
+- From survey, most students use left hand writing.
+- The average of body weight of cats is xxx kg.
