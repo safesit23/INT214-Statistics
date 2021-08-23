@@ -1,15 +1,17 @@
-# All Assignment
-
-- [Assignment 1](##-Assignment-1) (Week 2: 16 Aug, 20 Aug)
-- [Assignment 2](##-Assignment-2) (Week 3: 23 Aug, 27 Aug)
-
-## Assignment 1 (Individual)
+# Assignment 1 (Individual)
 Create script file `HW01_63130500xxx.R` and do exercise in this file and answer by using comment.
-### Exercise 1
+```
+# Example 0
+x <- 1
+y <- 2
+print(x+y) #3
+```
+
+## Exercise 1
 
 Finding the average, sum, median, sd, variance of `10.4, 5.6, 3.1, 6.4, 21.7`
 
-### Exercise 2
+## Exercise 2
 
 2.1. Create data structure in varaible named `marvel_movies` and explain why you using this data structure ?
 
@@ -36,19 +38,3 @@ rep(2017,4),rep(2018,2),rep(2019,3),rep(2021,4))
 - The numbers of movies
 - Finding the 19th movies name
 - Which year is most released movies
-
-## Assignment 2 (Group)
-### 2.1. Git
-Our subject have git organization name [sit-2021-int214](https://github.com/sit-2021-int214). Please join as members in this git organization.
-1. Create repository name as format `groupid-topics` (ex. `001-`)
-2. Set structure file as [int214-template](https://github.com/sit-2021-int214/int214-template)
-
-### 2.2. Explore Data
-Explore 2 dataset that given then finding descriptive statistics and summary result in form of sentences/paragraph at least 5 topics.
-#### Datasets:
-- Cats (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/cats)
-- Survey (Ref: https://www.rdocumentation.org/packages/MASS/versions/7.3-47/topics/survey)
-
-#### For example:
-- From survey, most students use left hand writing.
-- The average of body weight of cats is xxx kg.
