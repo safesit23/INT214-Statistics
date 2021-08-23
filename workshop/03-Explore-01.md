@@ -172,9 +172,11 @@ mtcars[1:5,]                # Select row 1-5 with all column
 In R, we can import datasets from CSV (comma-separated values) files by using function `read.csv()`. If you import from local you need to set path correctly.
 
 ```{R}
-Hotels <- read.csv("https://github.com/safesit23/INT214-Statistics/blob/main/datasets/Hotels.csv")
+Hotels <- read.csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Hotels.csv")
 View(Hotels)
 ```
+### Extra
+In R has library named `readr` that can read CSV file by using function `read_csv()`
 
 ### Exercise:
 
@@ -228,6 +230,7 @@ library(MASS)
 - The average of body weight of cats is xxx kg.
 
 After you have done, you need to sharing and working with your group as Assignment 2.
+
 ### B. What is NA Values ?
 
 In the survey dataset, it has `NA` values. `NA` mean ‘Not Available’ / Missing Values.
