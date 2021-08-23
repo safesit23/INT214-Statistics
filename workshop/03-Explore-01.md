@@ -5,7 +5,7 @@
 - Review Data Types & Data Structures
 - Review Descriptive Statistics
 - Install Packages in R
-- Factors
+- Factors (One of data type)
 - Explore the datasets in base R
 - Explore datasets from CSV
 
@@ -77,7 +77,7 @@ library(name)
 help(package=name)
 ```
 
-Let's try to install **Tools for Descriptive Statistics** package
+Let's try to install **Tools for Descriptive Statistics** package (If you have problem, you can use GUI to install package.)
 
 ```
 # DescTools package
