@@ -12,6 +12,6 @@ From week 3 that you have learned about explore data and learn from self learnin
 
 2.) Doing in Markdown file like [HW2_groupid.md](https://github.com/sit-2021-int214/int214-template/blob/main/assignment/HW2_groupid.md) (markdown file)
 
-3.) Push this file in your group repository
+3.) Push this file in your group repository **In this step you need to do following [Init with git repo in INT214-Project](https://github.com/sit-2021-int214/int214-project)
 
 4.) Send file link in LEB2 to submit (ให้แชร์ลิงก์ที่เข้าถึงไฟล์ที่ทำลงใน LEB2 เพื่อ Submit)

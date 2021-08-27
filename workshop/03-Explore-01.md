@@ -230,7 +230,7 @@ library(MASS)
 - From survey, most students use left hand writing.
 - The average of body weight of cats is xxx kg.
 
-After you have done, you need to sharing and working with your group as Assignment 2.
+After you have done, you need to sharing and working with your group as [Assignment 2](https://github.com/safesit23/INT214-Statistics/tree/main/assignment).
 
 ### B. What is NA Values ?
 
