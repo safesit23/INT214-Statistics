@@ -14,7 +14,8 @@
 1. Open R Studio Desktop and setting working directory
 2. Open Slide [03 Explore Data Part I](https://drive.google.com/file/d/1L9sQGIH_aOA2IHkiXE1XrLKvlr_ge8Il/view)
 3. Create Script file name `03_63130500xxx.R` and save in your working directory
-4. Open progress form [Class 03](https://forms.gle/n34yEsZKmrqv5ydK9) and checked on Study Check-In and 0 prerequisite
+4. run command `install.packages("DescTools")` (This command will use in Topic 2)
+5. Open progress form [Class 03](https://forms.gle/n34yEsZKmrqv5ydK9) and checked on Study Check-In and 0 prerequisite
 
 ## Review Week 2: Data Type and Data Structure
 
