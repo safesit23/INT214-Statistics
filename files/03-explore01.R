@@ -25,7 +25,6 @@ help(package=DescTools)
 Mode(sample1)
 
 factor(sample3)
-
 # treats gender as a nominal variable
 gender <- factor(sample3)
 class(sample3)
@@ -40,11 +39,13 @@ str(mtcars)
 head(mtcars)
 summary(mtcars)
 colMeans(mtcars)
+?mtcars
 
 # Find mean of miles per gallon (mpg)
 mean(mtcars$mpg)  # 20.09062
 
 Hotels <- read.csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Hotels.csv")
+Hotels <- read.csv("../datasets/Hotels.csv")
 View(Hotels)
 
 
