@@ -3,6 +3,7 @@
 
 - [Assignment 1: Individual](01-week2.md) (Week 2: 16 Aug, 20 Aug)
 - [Assignment 2: Group](02-week3.md) (Week 3: 23 Aug, 27 Aug)
+- [Assignment 3: Group](03-week4.md) (Week 4: 30 Aug, 3 Sep)
 
 ## Project Assignment
 About's project assignment, we will use this repository to explain about term assignment:
