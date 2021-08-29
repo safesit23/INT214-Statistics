@@ -245,6 +245,7 @@ mean(nums,na.rm = TRUE)
 
 ### C. Pipes Operator in R
 
+- You need to install and loading `dplyr` package
 - `f(x)` can be rewritten as `x %>% f`
 - In short, this means that functions that take one argument, function(argument), can be rewritten as follows: `argument %>% function()`. Ref: [Data Camp](https://www.datacamp.com/community/tutorials/pipe-r-tutorial#howto)
 
