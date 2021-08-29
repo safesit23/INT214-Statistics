@@ -15,15 +15,14 @@ Using workshop INT214 Statistics for Information Technology
 | Week 2  | Basic R + Statistics                          | [02-Basic-R](workshop/02-Basic-R.md)       |
 | Week 3  | Explore Data Part I                           | [03-Explore-01](workshop/03-Explore-01.md) |
 | Week 4  | Explore Data Part II                          | [04-Explore-02](workshop/04-Explore-02.md) |
-| Week 5  | Data Cleaing                                  |                                            |
-| Week 6  | Fundamental of Data Visualization with ggplot |                                            |
-| Week 7  | Workshop I                                    |                                            |
-| Week 9  | Data Visualization with BI Tools Part 1       |                                            |
-| Week 10 | Data Visualization with BI Tools Part 2       |                                            |
+| Week 6  | Data Cleaing                                  |                                            |
+| Week 6  | Workshop I                                    |                                            |
+| Week 8  | Fundamental of Data Visualization with ggplot |                                            |
+| Week 9  | Data Visualization with BI Tools              |                                            |
 | Week 11 | Hypothesis Testing for A/B Testing            |                                            |
-| Week 12 | Workshop II                                   |                                            |
-| Week 13 | Regression                                    |                                            |
-| Week 14 | Extra: Time Series Analysis                   |                                            |
+| Week 11 | Workshop II                                   |                                            |
+| Week 12 | Regression                                    |                                            |
+| Week 13 | Extra: Time Series Analysis                   |                                            |
 
 ## Another Resources
 
