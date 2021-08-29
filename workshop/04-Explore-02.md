@@ -1,4 +1,4 @@
-# 04 Explore Data Part II: Data Manipulation and Transformation
+# 04 Explore Data Part II: Data Manipulation
 
 ## Agenda
 
