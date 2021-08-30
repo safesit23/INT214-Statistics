@@ -103,6 +103,7 @@ dplyr is a grammar of data manipulation, providing a consistent set of verbs/adv
 - `select()` picks variables based on their names.
 - `filter()` picks cases based on their values.
 - `arrange()` changes the ordering of the rows.
+- `group_by()` takes a data frame and one or more variables to group by
 - `summarise()` reduces multiple values down to a single summary.
 - `mutate()` adds new variables that are functions of existing variables (Next class)
 - `transmute()` adds new variables and drops existing ones. (Next class)
@@ -174,6 +175,7 @@ starwars %>% select(name,height,mass, skin_color) %>% filter(skin_color=="light"
 ```
 starwars %>% group_by(sex) %>% select(height) %>% summarise(avg = mean(height, na.rm = TRUE))
 ```
+** Read more about [group_by](https://dplyr.tidyverse.org/articles/grouping.html#group_by)
 
 #### Example 3: Mass of Starwars characters who is male in descending order
 
