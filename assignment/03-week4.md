@@ -17,6 +17,6 @@ cats %>% dplyr::select(Hwt) %>% min()
 
 ## How to send:
 
-1. Create new file named `HW2_groupid.md` Ex. `HW2_001.md`
+1. Create new file named `HW3_groupid.md` Ex. `HW3_001.md`
 2. Push to your group repository in folder assignment
 3. Send file link in LEB2 to submit (It help you to check that your group have done this assignment)
