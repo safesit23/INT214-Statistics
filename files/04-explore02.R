@@ -5,8 +5,9 @@ glimpse(mtcars)
 Hotels <- read.csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Hotels.csv")
 
 # Sample 1: head()
-head(Hotels,2)
-Hotels %>% head()
+head(Hotels,9)
+Hotels %>% head(9) %>% tail(1)
+Hotels %>% tail(1)
 
 # Sample 2: mean()
 mean(Hotels$RateperNight)
@@ -45,7 +46,9 @@ starwars %>% select(name,height,mass, skin_color) %>%
 starwars %>% select(name,height,mass) %>% 
   filter(skin_color=="light")
 #case 3:
-starwars %>% filter(skin_color=="light") %>% select(name,height,mass)
+starwars %>% 
+  filter(skin_color=="light") %>% 
+  select(name,height,mass) 
   
 
 
