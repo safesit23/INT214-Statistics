@@ -32,10 +32,9 @@ Using workshop INT214 Statistics for Information Technology
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/assignment) All Assignment
 - [INT214 Statistics 2021](https://github.com/sit-2021-int214): Github Organization
 
-<br/>
+
 #### Created by Jatawat Xie (P'Safe)
 
-<br/>
 #### Learning Reference
 
 - https://www.statmethods.net/index.html
