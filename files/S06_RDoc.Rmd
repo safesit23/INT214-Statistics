@@ -1,0 +1,60 @@
+---
+title: "Hello R Document"
+author: "jatawatsafe"
+date: "9/9/2021"
+output:
+  html_document:
+    df_print: paged
+---
+
+## R Markdown
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+## Import Lib
+
+```{r packages, message=FALSE, warning=FALSE}
+library(dplyr)
+library(ggplot2)
+library(rmarkdown)
+```
+
+## Create Varaible
+```{r var}
+sample3 <- c("Male","Female","Male","Female","Female")
+gender <- factor(sample3)
+class(gender)
+summary(gender)
+```
+
+## Explore Data
+```{r explore}
+glimpse(starwars)
+```
+
+## Plots
+
+You can also embed plots, for example:
+
+```{r}
+ggplot(data = starwars, mapping = aes(x = height)) +
+  geom_histogram(binwidth = 10)
+```
+
+## Transformation Data
+```{R}
+starwars %>% group_by(species) %>%
+  summarise(height=mean(height,na.rm = T),mass=mean(mass,na.rm = T)) %>%
+  mutate(BMI = mass / ((height/100)^2)) %>% 
+  arrange(desc(BMI)) %>%
+  head(10)
+```
+
+## Notes
+- Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the **R code** 
+but the result will shown
+
+### Save
+- Click button `Knit` to save in HTML
+- If output is `github_document` using `render("fileName.Rmd")` run in console to save
