@@ -142,7 +142,7 @@ Cheatsheets: [readr](https://github.com/rstudio/cheatsheets/blob/master/data-imp
 Starting with import [products](https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/products_original.csv) dataset by using `readr` package.
 
 ```
-products <- read_csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/clean01_products.csv")
+products <- read_csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/products_original.csv")
 ```
 
 Then, try to diagnosing the data what you need to do with this dataset.
