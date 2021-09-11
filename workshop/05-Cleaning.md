@@ -3,8 +3,10 @@
 ## Agenda
 
 - Review dplyr Package
-- Data Transformation with dpylr
-- Data Cleaning
+- Data Transformation with dpylr (Topic 1)
+- Data Cleaning Concepts (Topic 2)
+- Guideline Data Cleaning (Topic 3 - 7)
+
 
 ## 0. Prerequisites
 
@@ -132,7 +134,7 @@ Cheatsheets: [readr](https://github.com/rstudio/cheatsheets/blob/master/data-imp
 
 ### Dataset 1: Uniqlo Products dataset
 
-(Ref product named from [UniqloTH](https://www.uniqlo.com/th/en)) This dataset is about's sample uniqlo product that sell in 2021. It includes productID, name of products, type of products, price of products, and number of sold. I want to know:
+(Reference products from [UniqloTH](https://www.uniqlo.com/th/en)) This dataset is about's sample uniqlo product that sell in 2021. It includes productID, name of products, type of products, price of products, and number of sold. I want to know:
 
 1. Gross sales of all products from this datasets.
 2. Number of all products from this datasets.
@@ -240,7 +242,7 @@ products <-
   products %>% distinct()
 ```
 
-Now, datat is ready to analyze. Let's find:
+Now, data is ready to analyze. Let's find:
 
 - Gross sales of all products from this datasets.
 - Number of all products from this datasets.
