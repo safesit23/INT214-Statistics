@@ -139,7 +139,7 @@ Cheatsheets: [readr](https://github.com/rstudio/cheatsheets/blob/master/data-imp
 1. Gross sales of all products from this datasets.
 2. Number of all products from this datasets.
 
-Starting with import [products](https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/clean01_products.csv) dataset by using `readr` package.
+Starting with import [products](https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/products_original.csv) dataset by using `readr` package.
 
 ```
 products <- read_csv("https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/clean01_products.csv")
