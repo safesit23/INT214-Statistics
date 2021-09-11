@@ -322,7 +322,7 @@ std_room %>% filter(mid_score==max(mid_score,na.rm = T))
 # Try to do with yourself
 ```
 
-Next, we will using knowledge from week 1-6 that you have learned to doing workshop I ([Click here](./06-Workshop1))
+Next, we will using knowledge from week 1-6 that you have learned to doing workshop I ([Click here](./06-Workshop1.md))
 
 ## Self Learning and Extra Knowledge:
 
