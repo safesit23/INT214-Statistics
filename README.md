@@ -15,7 +15,7 @@ Using workshop INT214 Statistics for Information Technology
 | Week 2  | Basic R + Statistics                          | [02-Basic-R](workshop/02-Basic-R.md)       |
 | Week 3  | Explore Data Part I                           | [03-Explore-01](workshop/03-Explore-01.md) |
 | Week 4  | Explore Data Part II                          | [04-Explore-02](workshop/04-Explore-02.md) |
-| Week 6  | Data Cleaing                                  |                                            |
+| Week 6  | Data Transformation + Data Cleaning           | [05-Cleaning-03](workshop/05-Cleaning.md)  |
 | Week 6  | Workshop I                                    |                                            |
 | Week 8  | Fundamental of Data Visualization with ggplot |                                            |
 | Week 9  | Data Visualization with BI Tools              |                                            |
@@ -41,3 +41,4 @@ Using workshop INT214 Statistics for Information Technology
 - https://www.tutorialspoint.com/r
 - https://github.com/andrewgbruce/statistics-for-data-scientists
 - https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+- https://www.rstudio.com/resources/cheatsheets/
