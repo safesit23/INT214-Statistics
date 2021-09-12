@@ -24,17 +24,22 @@ Using workshop INT214 Statistics for Information Technology
 | Week 12 | Regression                          |                                            |
 | Week 13 | Extra: Time Series Analysis         |                                            |
 
-## Resources in repository
+## Resources
+### Resources in this repository
 
 - [Summary R Command](workshop/Summary.md)
 - [View](https://drive.google.com/drive/folders/1Bi58GdQ19Te8JdCM7slyJdocpu8JudEc) All Slides
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/datasets) Dataset Materials
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/files) Materials in class + Key Assignments
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/assignment) All Assignment
-- [INT214 Statistics 2021](https://github.com/sit-2021-int214): Github Organization
-- [Sample R Document](files/S07_RDoc.html)
+- [View](files/SampleRDoc.html) Sample R Document by using Rmd
 
-#### Learning Reference
+### Related Repository
+- Term Project Details: [int214-project](https://github.com/sit-2021-int214/int214-project)
+- Github Organization: [INT214 Statistics 2021](https://github.com/sit-2021-int214)
+- Sample Project: [000-INT214Survey](https://github.com/sit-2021-int214/000-INT214Survey)
+
+### Learning Reference
 
 - https://www.statmethods.net/index.html
 - https://www.tutorialspoint.com/r

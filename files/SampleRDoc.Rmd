@@ -1,7 +1,6 @@
 ---
-title: "Hello R Document"
+title: "Sample R Document"
 author: "jatawatsafe"
-date: "9/9/2021"
 output:
   html_document:
     df_print: paged
@@ -16,7 +15,6 @@ When you click the **Knit** button a document will be generated that includes bo
 
 ```{r packages, message=FALSE, warning=FALSE}
 library(dplyr)
-library(ggplot2)
 library(rmarkdown)
 ```
 
@@ -38,8 +36,7 @@ glimpse(starwars)
 You can also embed plots, for example:
 
 ```{r}
-ggplot(data = starwars, mapping = aes(x = height)) +
-  geom_histogram(binwidth = 10)
+barplot(starwars$height)
 ```
 
 ## Transformation Data
@@ -57,4 +54,4 @@ but the result will shown
 
 ### Save
 - Click button `Knit` to save in HTML
-- If output is `github_document` using `render("fileName.Rmd")` run in console to save
+- If output is `github_document`, run function `render("fileName.Rmd")` in console to save
