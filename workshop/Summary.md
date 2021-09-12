@@ -107,8 +107,12 @@ library(name)               # Loading/Attaching and Listing of Packages
 help(package=name)          # Read description
 ```
 
-- `dplyr`: Data Transformation
-- `stringr`:
+- `dplyr`: data manipulation
+- `tidyr`: help you create tidy data
+- `readr`: A fast and friendly way to read rectangular data
+- `stringr`: Character manipulation
+- `assertive`: Readable check functions to ensure code integrity
+- `lubridate`: Handle datetime format
 
 ## 6. dplyr Package
 
