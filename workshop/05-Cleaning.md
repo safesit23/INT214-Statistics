@@ -3,7 +3,7 @@
 ## Agenda
 
 - Review dplyr Package
-- Data Transformation with dpylr (Topic 1)
+- Data Transformation with dplyr (Topic 1)
 - Data Cleaning Concepts (Topic 2)
 - Guideline Data Cleaning (Topic 3 - 7)
 
@@ -18,7 +18,7 @@
 
 ## Review dplyr Package
 
-The dplyr package in R is designed to make data manipulation (การจัดการข้อมูล) tasks simpler and more intuitive than working with base R functions only.(Ref: [dpylr](https://dplyr.tidyverse.org))
+The dplyr package in R is designed to make data manipulation (การจัดการข้อมูล) tasks simpler and more intuitive than working with base R functions only.(Ref: [dplyr](https://dplyr.tidyverse.org))
 
 ```
 library(dplyr)
@@ -59,9 +59,9 @@ starwars %>% group_by(sex) %>% select(height) %>% summarise(avg = mean(height, n
 
 Today, we continue learning remaining function from dplyr package in "Data Transformation" topic.
 
-## 1. Data Transformation with dpylr
+## 1. Data Transformation with dplyr
 
-Data transformation is the process of converting data from one format to another. (Ref Meaning: [trifacta](https://www.trifacta.com/data-transformation/)) We can use dpylr package to modifying data
+Data transformation is the process of converting data from one format to another. (Ref Meaning: [trifacta](https://www.trifacta.com/data-transformation/)) We can use dplyr package to modifying data
 e.g. calculating new value, changing data type from numeric to character. We can use these function:
 
 - `rename()` renaming columns
@@ -272,7 +272,7 @@ Outliers data (ค่าผิดปกติ) is a data point that differs sign
 - Replace with range limit
 - Replace with other value based on domain knowledge
 
-We use function in dpylr to handling these case and using these function to help:
+We use function in dplyr to handling these case and using these function to help:
 
 - `replace(col, condition, replacement)`: Replace value with condition
 - `assert_all_are_in_closed_range(col, lower = l1, upper = u1)`: check in range of [l1,u1]
