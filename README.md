@@ -32,7 +32,7 @@ Using workshop INT214 Statistics for Information Technology
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/datasets) Dataset Materials
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/files) Materials in class + Key Assignments
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/assignment) All Assignment
-- [View](files/SampleRDoc.html) Sample R Document by using Rmd
+- Sample R Document by using [Rmd file](https://github.com/safesit23/INT214-Statistics/blob/main/files/SampleRDoc.Rmd) ([View output here](https://safesit23.github.io/INT214-Statistics/files/SampleRDoc.html))
 
 ### Related Repository
 - Term Project Details: [int214-project](https://github.com/sit-2021-int214/int214-project)
