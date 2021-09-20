@@ -48,12 +48,12 @@ assert_is_numeric(products$sold)
 
 is.factor(products$gender)
 
-# 4.Changing character to Factor: Gender
+# 4.Changing Type: character to Factor (Gender)
 products$gender <- as.factor(products$gender)
 summary(products$gender)
 
-# 5.Handling String with stringr
-products$price %>% as.numeric() %>% head()
+# 5.Handling String with stringr (Price)
+products$price %>% as.numeric() # It will change all data as NA / Need to handle string first
 
 products$price <-
   products$price %>% str_remove("THB") %>% 
