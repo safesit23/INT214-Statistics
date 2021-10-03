@@ -17,14 +17,14 @@ Using workshop INT214 Statistics for Information Technology
 | Week 4  | Explore Data Part II                | [04-Explore-02](workshop/04-Explore-02.md) |
 | Week 6  | Data Transformation + Data Cleaning | [05-Cleaning](workshop/05-Cleaning.md)     |
 | Week 6  | Workshop I                          | [06-Workshop](workshop/06-Workshop1.md)    |
-| Week 8  | Fundamental of Data Visualization   |                                            |
-| Week 9  | Data Visualization with BI Tools    |                                            |
-| Week 11 | Hypothesis Testing for A/B Testing  |                                            |
-| Week 11 | Workshop II                         |                                            |
+| Week 8  | Data Visualization                  |                                            |
+| Week 10 | Hypothesis Testing for A/B Testing  |                                            |
 | Week 12 | Regression                          |                                            |
-| Week 13 | Extra: Time Series Analysis         |                                            |
+| Week 13 | Workshop II                         |                                            |
+| Week 14 | Extra: Time Series Analysis         |                                            |
 
 ## Resources
+
 ### Resources in this repository
 
 - [Summary R Command](workshop/Summary.md)
@@ -35,6 +35,7 @@ Using workshop INT214 Statistics for Information Technology
 - Sample R Document by using [Rmd file](https://github.com/safesit23/INT214-Statistics/blob/main/files/SampleRDoc.Rmd) ([View output here](https://safesit23.github.io/INT214-Statistics/files/SampleRDoc.html))
 
 ### Related Repository
+
 - Term Project Details: [int214-project](https://github.com/sit-2021-int214/int214-project)
 - Github Organization: [INT214 Statistics 2021](https://github.com/sit-2021-int214)
 - Sample Project: [000-INT214Survey](https://github.com/sit-2021-int214/000-INT214Survey)
@@ -48,5 +49,6 @@ Using workshop INT214 Statistics for Information Technology
 - https://www.rstudio.com/resources/cheatsheets/
 - https://www.tidyverse.org/
 
-_________________
+---
+
 ### Created by Jatawat Xie (P'Safe)
