@@ -9,19 +9,18 @@ Using workshop INT214 Statistics for Information Technology
 
 ## Course Outlines
 
-| Week    | Topics                              | Instruction Files                          |
+| Class R | Topics                              | Instruction Files                          |
 | ------- | ----------------------------------- | ------------------------------------------ |
-| Week 1  | Introduction + Setting up R         | [01-Intro-R](workshop/01-intro-R.md)       |
-| Week 2  | Basic R + Statistics                | [02-Basic-R](workshop/02-Basic-R.md)       |
-| Week 3  | Explore Data Part I                 | [03-Explore-01](workshop/03-Explore-01.md) |
-| Week 4  | Explore Data Part II                | [04-Explore-02](workshop/04-Explore-02.md) |
-| Week 6  | Data Transformation + Data Cleaning | [05-Cleaning](workshop/05-Cleaning.md)     |
-| Week 6  | Workshop I                          | [06-Workshop](workshop/06-Workshop1.md)    |
-| Week 8  | Data Visualization                  |                                            |
-| Week 10 | Hypothesis Testing for A/B Testing  |                                            |
-| Week 12 | Regression                          |                                            |
-| Week 13 | Workshop II                         |                                            |
-| Week 14 | Extra: Time Series Analysis         |                                            |
+| Class 1 | Introduction + Setting up R         | [01-Intro-R](workshop/01-intro-R.md)       |
+| Class 2 | Basic R + Statistics                | [02-Basic-R](workshop/02-Basic-R.md)       |
+| Class 3 | Explore Data Part I                 | [03-Explore-01](workshop/03-Explore-01.md) |
+| Class 4 | Explore Data Part II                | [04-Explore-02](workshop/04-Explore-02.md) |
+| Class 5 | Data Transformation + Data Cleaning | [05-Cleaning](workshop/05-Cleaning.md)     |
+| Class 5 | Workshop I                          | [06-Workshop](workshop/06-Workshop1.md)    |
+| Class 6 | Data Visualization                  | [07-DataViz](workshop/07-DataViz.md)       |
+| Class 7 | Hypothesis Testing for A/B Testing  |                                            |
+| Class 8 | Regression                          |                                            |
+| Class 9 | Workshop II                         |                                            |
 
 ## Resources
 
@@ -48,6 +47,7 @@ Using workshop INT214 Statistics for Information Technology
 - https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
 - https://www.rstudio.com/resources/cheatsheets/
 - https://www.tidyverse.org/
+- https://clauswilke.com/dataviz/
 
 ---
 
