@@ -75,6 +75,8 @@ R Markdown is a file format for making dynamic documents with R. An R Markdown d
 
 You will see that Rmd file can display output of your code. In this way, it not necessary to copy output into md file. You can use Rmd file instead to show output.
 
+Study more: [Datacamp](https://www.datacamp.com/courses/reporting-with-rmarkdown)
+
 ### 3. GitHub Pages
 In github, it cannot show output of Rmd file or HTML file. You can using [GitHub Pages](https://pages.github.com/) for hosting directly from your GitHub repository. Just edit, push, and your changes are live.
 
