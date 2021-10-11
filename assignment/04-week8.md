@@ -48,3 +48,4 @@
 - [Data Camp: Introduction to Power BI](https://learn.datacamp.com/courses/introduction-to-power-bi)
 - [Data Camp: Introduction to Tableau](https://www.datacamp.com/courses/introduction-to-tableau)
 - [DataTH.com: สอนทำโปรเจควิเคราะห์ข้อมูลไว้ใส่ Portfolio](https://data.go.th/blog/portfolio-10)
+- [Microsoft Learn: POWER BI](https://docs.microsoft.com/en-us/learn/powerplatform/power-bi)
