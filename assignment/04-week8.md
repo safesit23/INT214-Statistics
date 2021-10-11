@@ -4,7 +4,7 @@
 
 - This assignment is Individual Assignment. It divided into Part A and Part B
 - Total Score is 20 Pts (See criteria in LEB2)
-- Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
+- Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
 - Create folder HW04_studentId in Group repository and push all code in this repository
 - Send [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (Paste the link of part A and part B in this file) **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
 
