@@ -134,8 +134,7 @@ Try another graphs with yourself more: https://www.r-graph-gallery.com/
 
 ## 3. Exercise in Class
 
-- Try to Create histogram graph to see the height \*\*Try to use `binwidth = 10` in geometries.
-
+- Try to Create histogram graph to see the height \*\*Try to use `binwidth = 10` in geometries. (Read about's binwidth [more](https://ggplot2.tidyverse.org/reference/geom_histogram.html))
 ```
 // Try with yourself
 ```
