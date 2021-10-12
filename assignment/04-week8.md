@@ -6,7 +6,9 @@
 - Total Score is 20 Pts (See criteria in LEB2)
 - Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
 - Create folder HW04_studentId in Group repository and push all code (R, md or Rmd) in this repository
-- Send in format: [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (ส่งงานเป็นไฟล์ PDF ใน LEB2 โดยให้แปะลิงก์งานที่ทำ Part A สำหรับเข้าถึงไฟล์ต่าง ๆ ใน git และ Part B ที่ทำ Dashboard) **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
+- Send in format: [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (ส่งงานเป็นไฟล์ PDF ใน LEB2 โดยให้แปะลิงก์งานที่ทำ Part A สำหรับเข้าถึงไฟล์ต่าง ๆ ใน git และ Part B ที่ทำ Dashboard) 
+ 
+**พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
 
 #### Select one dataset from the given:
 
@@ -18,6 +20,7 @@
 
 - Goal: Can find insight the data and visualize the data.
 - Score: 13 Pts
+- Use Markdown File (md or Rmf) to explain (Same as Workshop I)
 
 ### What you need to do:
 
