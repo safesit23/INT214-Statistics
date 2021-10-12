@@ -5,8 +5,8 @@
 - This assignment is Individual Assignment. It divided into Part A and Part B
 - Total Score is 20 Pts (See criteria in LEB2)
 - Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
-- Create folder HW04_studentId in Group repository and push all code in this repository
-- Send [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (Paste the link of part A and part B in this file) **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
+- Create folder HW04_studentId in Group repository and push all code (R, md or Rmd) in this repository
+- Send in format: [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (ส่งงานเป็นไฟล์ PDF ใน LEB2 โดยให้แปะลิงก์งานที่ทำ Part A สำหรับเข้าถึงไฟล์ต่าง ๆ ใน git และ Part B ที่ทำ Dashboard) **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
 
 #### Select one dataset from the given:
 
@@ -41,7 +41,7 @@
 4. UI not has score but you need to implement with best practice to create data visualization.
 5. Writing name and student ID in dashboard
 6. Paste the link that can access the dashboard in PDF file **Don't forget to published link
-7. Write summary what you have learned or done in this dashboard in PDF file
+7. Write summary what you have learned or done in this dashboard in PDF file (ในส่วนนี้ไม่มีคะแนน แต่อยากให้อธิบายถึงสิ่งที่ทำคร่าว ๆ)
 
 #### Guideline to Learning how to create BI Dashboard
 
