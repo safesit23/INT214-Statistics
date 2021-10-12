@@ -5,8 +5,10 @@
 - This assignment is Individual Assignment. It divided into Part A and Part B
 - Total Score is 20 Pts (See criteria in LEB2)
 - Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
-- Create folder HW04_studentId in Group repository and push all code in this repository
-- Send [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (Paste the link of part A and part B in this file) **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
+- Create folder HW04_studentId in Group repository and push all code (R, md or Rmd) in this repository
+- Send in format: [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (ส่งงานเป็นไฟล์ PDF ใน LEB2 โดยให้แปะลิงก์งานที่ทำ Part A สำหรับเข้าถึงไฟล์ต่าง ๆ ใน git และ Part B ที่ทำ Dashboard) 
+ 
+**พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
 
 #### Select one dataset from the given:
 
@@ -25,7 +27,8 @@
 2. Transform data with dplyr and finding **insight the data** at least 6 issues. Show your code, result and summary in form of sentence/paragraphs.
 3. Using ggplot2 to create **2 graphs** and explain each graph.
 4. In this part, you need to using command from tidyverse (e.g. lubridate, stringr, forcats) that not learned in class and explain this command how to used it. If you can't implement to this dataset, you can select one command and show example how to used it.
-5. Do in md file or using Rmd file and push into your folder. ** Same as Workshop 1
+5. Do in Markdown File (md or Rmd) and push into your folder in Team Repository. (Same as Workshop I)
+6. Copy link to access this folder and paste into PDF file Part A
 
 ## Part B: Creating Interaction Dashboard with BI Tools (7 Pts)
 
@@ -41,7 +44,7 @@
 4. UI not has score but you need to implement with best practice to create data visualization.
 5. Writing name and student ID in dashboard
 6. Paste the link that can access the dashboard in PDF file **Don't forget to published link
-7. Write summary what you have learned or done in this dashboard in PDF file
+7. Write summary what you have learned or done in this dashboard in PDF file (ในส่วนนี้ไม่มีคะแนน แต่อยากให้อธิบายถึงสิ่งที่ทำคร่าว ๆ)
 
 #### Guideline to Learning how to create BI Dashboard
 
