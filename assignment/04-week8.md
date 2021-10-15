@@ -5,7 +5,7 @@
 - This assignment is Individual Assignment. It divided into Part A and Part B
 - Total Score is 20 Pts (See criteria in LEB2)
 - Due date: Sec A - 25 Oct 2021 At 23:00 GMT+7 / Sec B - 29 Oct 2021 At 23:00 GMT+7
-- Create folder HW04_studentId in Group repository and push all code (R, md or Rmd) in this repository
+- Create folder HW04_studentId in Group repository and push all code (R, md or Rmd) in this repository.
 - Send in format: [PDF file](https://github.com/safesit23/INT214-Statistics/blob/main/assignment/HW04_SamplePdf.pdf) in LEB2 (ส่งงานเป็นไฟล์ PDF ใน LEB2 โดยให้แปะลิงก์งานที่ทำ Part A สำหรับเข้าถึงไฟล์ต่าง ๆ ใน git และ Part B ที่ทำ Dashboard) 
  
 **พี่ตรวจจากไฟล์ PDF ใน LEB2 แต่ในส่วนของ Code อยากให้อัปโหลดเข้า git และแชร์ link ลง PDF เนื่องจากหากอัปโหลด code ใน LEB2 มาจะมีปัญหาเรื่องการแสดงผลข้อมูลและภาษา
@@ -30,6 +30,8 @@
 5. Do in Markdown File (md or Rmd) and push into your folder in Team Repository. (Same as Workshop I)
 6. Copy link to access this folder and paste into PDF file Part A
 
+Click to see sample: [here](https://github.com/sit-2021-int214/int214-template/tree/main/assignment/HW04_studentId)
+
 ## Part B: Creating Interaction Dashboard with BI Tools (7 Pts)
 
 - Goal: Know how to create basic interaction dashboard by using BI Tools
@@ -45,6 +47,9 @@
 5. Writing name and student ID in dashboard
 6. Paste the link that can access the dashboard in PDF file **Don't forget to published link
 7. Write summary what you have learned or done in this dashboard in PDF file (ในส่วนนี้ไม่มีคะแนน แต่อยากให้อธิบายถึงสิ่งที่ทำคร่าว ๆ)
+
+Click to see sample from P'Safe: [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTdmNWY5YTAtOGFmZi00YzczLTkzMmEtYjg3OTEwMzMwNmVmIiwidCI6IjZmNDQzMmRjLTIwZDItNDQxZC1iMWRiLWFjMzM4MGJhNjMzZCIsImMiOjEwfQ%3D%3D),
+[Data Studio](https://datastudio.google.com/reporting/224c53b1-e078-4f50-9614-463d9550d6c4)
 
 #### Guideline to Learning how to create BI Dashboard
 
