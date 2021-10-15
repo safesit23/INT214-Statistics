@@ -36,7 +36,7 @@ Click to see sample: [here](https://github.com/sit-2021-int214/int214-template/t
 
 - Goal: Know how to create basic interaction dashboard by using BI Tools
 - Score: 7 Pts
-- What you need to do: You need to self-learning how to creating Interaction Dashboard with BI Tools and show your result. You can use same dataset or change another dataset.
+- What you need to do: You need to self-learning how to creating Interaction Dashboard with BI Tools and show your result. You can use same dataset or change another dataset. (ให้ใช้ dataset ชุดเดียวกับที่เลือกหรือใช้ dataset จากที่ไปเรียนรู้ด้วยตัวเองมาก็ได้ เช่นไปเรียนใน youtube มี dataset ให้ทำตาม สามารถใช้ได้ แต่อยากให้เขียนอธิบายด้วยว่าได้อะไรบ้าง)
 - Using Tools: [Power BI](https://powerbi.microsoft.com/en-au/), [Tableau](https://www.tableau.com/academic/students), [Data Studio](https://datastudio.google.com/)
 
 ### Requirements:
