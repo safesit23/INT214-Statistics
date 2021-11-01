@@ -118,14 +118,17 @@ pt(q, df,lower.tail = TRUE)
 qt(p, df, lower.tail = TRUE)
 ```
 
-Let's try pnorm and qnorm
+### Let's try It
 ```
-#pnorm(x, mean, sd)
+# Finding Z
 x <- 12
 xbar <- 10
 sd <- 1
 z <- (x-xbar)/sd;z
-prob1 <- pnorm(x,xbar,sd);prob1
+
+# Finding Area
+pnorm(x,xbar,sd)
+# Finding Z
 qnorm(prob1)
 ```
 
