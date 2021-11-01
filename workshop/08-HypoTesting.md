@@ -274,8 +274,3 @@ It has many free online course about Hypothesis Testing. You can study in these 
 - [Codecademy: Hypothesis Testing](https://www.codecademy.com/courses/learn-r/lessons/hypothesis-testing-r)
 - [Datacamp: Mini case study in A/B Testing](https://www.datacamp.com/courses/ab-testing-in-r)
 - [Thepexcel: Statistics with Excel](https://www.thepexcel.com/stats-06-hypothesis-testing/)
-
-### B.) More Practice
-
-- Ref:
-  https://www.kaggle.com/herminegrigoryan/hypothesis-testing-visualization
