@@ -127,9 +127,9 @@ sd <- 1
 z <- (x-xbar)/sd;z
 
 # Finding Area
-pnorm(x,xbar,sd)
+prob1 <- pnorm(x,xbar,sd); prob1
 # Finding Z
-qnorm(prob1)
+z1 <- qnorm(prob1); z1
 ```
 
 ## 4. Hypothesis testing
