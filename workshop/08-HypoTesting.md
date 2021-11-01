@@ -118,6 +118,17 @@ pt(q, df,lower.tail = TRUE)
 qt(p, df, lower.tail = TRUE)
 ```
 
+Let's try pnorm and qnorm
+```
+#pnorm(x, mean, sd)
+x <- 12
+xbar <- 10
+sd <- 1
+z <- (x-xbar)/sd;z
+prob1 <- pnorm(x,xbar,sd);prob1
+qnorm(prob1)
+```
+
 ## 4. Hypothesis testing
 
 is a method of statistical inference. An alternative hypothesis is proposed for the probability distribution of the data, either explicitly or only informally. The comparison of the two models is deemed statistically significant if, according to a threshold probability—the significance level—the data would be unlikely to occur if the null hypothesis were true. [Ref](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
@@ -133,8 +144,8 @@ is a method of statistical inference. An alternative hypothesis is proposed for 
 1. State the hypothesis
 2. Select Level of significance (alpha)
 3. Select Test statistic (This formula for one population)
-   - z <- (xbar - u0) / (sd/sqrt(n))
-   - t <- (pbar-p0) / sqrt((p0\*(1-p0))/n)
+   - z/t <- (xbar - u0) / (sd/sqrt(n))
+   - z <- (pbar-p0) / sqrt((p0\*(1-p0))/n)
 4. Finding P-value approach or Critical Value approach
    - P-value for Z: `pvalue <- pnorm(z)`
    - Critical Value for Z: `zalpha <- qnorm(alpha)`
