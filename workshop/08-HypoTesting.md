@@ -227,7 +227,7 @@ https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Time
 The College Board provided comparisons of Scholastic Aptitude Test (SAT) scores based on the highest level of education attained by the test taker’s parents. A research hypothesis was that students whose parents had attained a higher level of education would on average score higher on the SAT. During 2003, the overall mean SAT verbal score was 507 (The World Almanac, 2004). SAT verbal scores for independent samples of students follow. The first sample shows the SAT verbal test scores for students whose parents are college graduates with a bachelor’s degree. The second sample shows the SAT verbal test scores for students whose parents are high school graduates but do not have a college degree.
 
 ```
-
+https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/StudentParents.csv
 ```
 
 a. Formulate the hypotheses that can be used to determine whether the sample data sup- port the hypothesis that students show a higher population mean verbal score on the SAT if their parents attained a higher level of education.
@@ -239,9 +239,12 @@ c. Compute the p-value for the hypothesis test.
 d. At α = .05, what is your conclusion?
 
 ### Practice 4 (Ref: Chapter 10 Question 40, Page 439)
-Mutual funds are classified as load or no-load funds. Load funds require an investor to pay an initial fee based on a percentage of the amount invested in the fund. The no-load funds do not require this initial fee. Some financial advisors argue that the load mutual funds may be worth the extra fee because these funds provide a higher mean rate of return than the no-load mutual funds. A sample of 30 load mutual funds and a sample of 30 no-load mutual funds were selected. Data were collected on the annual return for the funds over a five-year period. The data are contained in the data set Mutual. The data for the first five load and first five no-load mutual funds are as follows.
+Mutual funds are classified as load or no-load funds. Load funds require an investor to pay an initial fee based on a percentage of the amount invested in the fund. The no-load funds do not require this initial fee. Some financial advisors argue that the load mutual funds may be worth the extra fee because these funds provide a higher mean rate of return than the no-load mutual funds. A sample of 30 load mutual funds and a sample of 30 no-load mutual funds were selected. Data were collected on the annual return for the funds over a five-year period. The data are contained in the data set Mutual. The data for the load and no-load mutual funds are as follows.
 ```
-
+# Mutual-Load
+https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Mutual-Load.csv
+# Mutual-No Load
+https://raw.githubusercontent.com/safesit23/INT214-Statistics/main/datasets/Mutual-NoLoad.csv
 ```
 a. Formulate H0 and Ha such that rejection of H0 leads to the conclusion that the load mu- tual funds have a higher mean annual return over the five-year period.
 
