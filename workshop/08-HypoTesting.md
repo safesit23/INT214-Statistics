@@ -53,7 +53,7 @@ Point estimation involves the use of sample data to calculate a single value. In
 ### 2.1. Mean
 
 1. Finding average height of `starwars` characters.
-2. Finding average height of `starwars` characters which gender is male.
+2. Finding average height of `starwars` characters which sex is `male`.
 
 ```
 //Code
