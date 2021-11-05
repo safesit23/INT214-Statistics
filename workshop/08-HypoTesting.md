@@ -56,7 +56,12 @@ Point estimation involves the use of sample data to calculate a single value. In
 2. Finding average height of `starwars` characters which sex is `male`.
 
 ```
-//Code
+#1.Finding average height of starwars characters.
+mean(starwars$height,na.rm = T)
+
+#2.Finding average height of starwars characters which sex is male.
+starwars %>% filter(sex=="male") %>% 
+  summarise(avg_height=mean(height,na.rm = T)) %>% pull()
 ```
 
 ### 2.2. Proportion (สัดส่วน)
