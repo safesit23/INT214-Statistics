@@ -19,8 +19,7 @@ Using workshop INT214 Statistics for Information Technology
 | Class 5 | Workshop I                          | [06-Workshop](workshop/06-Workshop1.md)      |
 | Class 6 | Data Visualization                  | [07-DataViz](workshop/07-DataViz.md)         |
 | Class 7 | Hypothesis Testing with R           | [08-HypoTesting](workshop/08-HypoTesting.md) |
-| Class 8 | Regression                          |                                              |
-| Class 9 | Workshop II                         |                                              |
+| Class 8 | Workshop II                         | [09-Workshop2](workshop/09-Workshop2.md)     |
 
 ## Resources
 
