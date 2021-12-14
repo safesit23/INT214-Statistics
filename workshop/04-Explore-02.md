@@ -145,7 +145,7 @@ starwars %>% filter(sex == "male",skin_color == "light")    # and
 
 ### 2.3. Arranging
 
-You can using `filter()` to filter rows (Learn more: [dplyr](https://dplyr.tidyverse.org/articles/dplyr.html#arrange-rows-with-arrange))
+You can using `arrange()` to filter rows (Learn more: [dplyr](https://dplyr.tidyverse.org/articles/dplyr.html#arrange-rows-with-arrange))
 
 ```
 starwars %>% arrange(height)
