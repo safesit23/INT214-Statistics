@@ -26,7 +26,7 @@ Using workshop INT214 Statistics for Information Technology
 ### Resources in this repository
 
 - [Summary R Command](workshop/Summary.md)
-- [View](https://drive.google.com/drive/folders/0B2HRApZM_XXyfmRCOGU4VUZMVVBfdGM0SDRja3QySFBIQUp5X0dEYWRsb1lGYlFGOEZlbUE?resourcekey=0-_O6pLJ6rBdhDGN4ovN9vOw&usp=sharing) All Slides
+- [View](https://drive.google.com/drive/folders/0B2HRApZM_XXyfklvV014ZERlSEo0b29STjh4ZXFPdVdZTzNFazhtX0xpbzBLZHB6R3hEbDA?resourcekey=0-OIoRGd_ejSlr0gYZea5dcg&usp=drive_link) All Slides
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/datasets) Dataset Materials
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/files) Materials in class + Key Assignments
 - [View](https://github.com/safesit23/INT214-Statistics/tree/main/assignment) All Assignment
